@@ -15,7 +15,7 @@ La aplicación utiliza una base de datos en memoria H2. La configuración de la 
 spring.datasource.url=jdbc:h2:mem:testdb
 spring.datasource.driverClassName=org.h2.Driver
 spring.datasource.username=sa
-spring.datasource.password=password cd YOUR_REPOSITORY_NAME
+spring.datasource.password=password cd gestion-biblioteca
 Compila y ejecuta la aplicación con Maven:
 
 mvn clean install
